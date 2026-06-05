@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Horizon",
+  "description": "An architectural real estate portfolio of desaturated avant-garde structures and digital blueprints, designed in deep obsidian, glassmorphic floating frames, metallic gold lines, and neon cyan technical matrices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
